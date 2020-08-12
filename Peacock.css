@@ -1,0 +1,864 @@
+/* this is a new programming language aiming to create short and handy ways to style your websites and
+make it look better without needing to add more styles. */
+/* setting display picture */
+.dp-1-100 {
+  border-radius: 100%;
+  width: 10%;
+}
+
+.dp-1-90 {
+  border-radius: 90%;
+  width: 10%;
+}
+
+.dp-1-80 {
+  border-radius: 80%;
+  width: 10%;
+}
+
+.dp-1-70 {
+  border-radius: 70%;
+  width: 10%;
+}
+
+.dp-1-60 {
+  border-radius: 60%;
+  width: 10%;
+}
+
+.dp-1-50 {
+  border-radius: 50%;
+  width: 10%;
+}
+
+.dp-1-40 {
+  border-radius: 40%;
+  width: 10%;
+}
+
+.dp-1-30 {
+  border-radius: 30%;
+  width: 10%;
+}
+
+.dp-1-20 {
+  border-radius: 20%;
+  width: 10%;
+}
+
+.dp-1-10 {
+  border-radius: 10%;
+  width: 10%;
+}
+
+.dp-1 {
+  width: 10%;
+}
+
+.dp-2-100 {
+  border-radius: 100%;
+  width: 20%;
+}
+
+.dp-2-90 {
+  border-radius: 90%;
+  width: 20%;
+}
+
+.dp-2-80 {
+  border-radius: 80%;
+  width: 20%;
+}
+
+.dp-2-70 {
+  border-radius: 70%;
+  width: 20%;
+}
+
+.dp-2-60 {
+  border-radius: 60%;
+  width: 20%;
+}
+
+.dp-2-50 {
+  border-radius: 50%;
+  width: 20%;
+}
+
+.dp-2-40 {
+  border-radius: 40%;
+  width: 20%;
+}
+
+.dp-2-30 {
+  border-radius: 30%;
+  width: 20%;
+}
+
+.dp-2-20 {
+  border-radius: 20%;
+  width: 20%;
+}
+
+.dp-2-10 {
+  border-radius: 10%;
+  width: 20%;
+}
+
+.dp-2 {
+  width: 20%;
+}
+
+.dp-3-100 {
+  border-radius: 100%;
+  width: 30%;
+}
+
+.dp-3-90 {
+  border-radius: 90%;
+  width: 30%;
+}
+
+.dp-3-80 {
+  border-radius: 80%;
+  width: 30%;
+}
+
+.dp-3-70 {
+  border-radius: 70%;
+  width: 30%;
+}
+
+.dp-3-60 {
+  border-radius: 60%;
+  width: 30%;
+}
+
+.dp-3-50 {
+  border-radius: 50%;
+  width: 30%;
+}
+
+.dp-3-40 {
+  border-radius: 40%;
+  width: 30%;
+}
+
+.dp-3-30 {
+  border-radius: 30%;
+  width: 30%;
+}
+
+.dp-3-20 {
+  border-radius: 20%;
+  width: 30%;
+}
+
+.dp-3-10 {
+  border-radius: 10%;
+  width: 30%;
+}
+
+.dp-3 {
+  width: 30%;
+}
+
+.dp-4-100 {
+  border-radius: 100%;
+  width: 40%;
+}
+
+.dp-4-90 {
+  border-radius: 90%;
+  width: 40%;
+}
+
+.dp-4-80 {
+  border-radius: 80%;
+  width: 40%;
+}
+
+.dp-4-70 {
+  border-radius: 70%;
+  width: 40%;
+}
+
+.dp-4-60 {
+  border-radius: 60%;
+  width: 40%;
+}
+
+.dp-4-50 {
+  border-radius: 50%;
+  width: 40%;
+}
+
+.dp-4-40 {
+  border-radius: 40%;
+  width: 40%;
+}
+
+.dp-4-30 {
+  border-radius: 30%;
+  width: 40%;
+}
+
+.dp-4-20 {
+  border-radius: 20%;
+  width: 40%;
+}
+
+.dp-4-10 {
+  border-radius: 10%;
+  width: 40%;
+}
+
+.dp-4 {
+  width: 40%;
+}
+
+.dp-5-100 {
+  border-radius: 100%;
+  width: 50%;
+}
+
+.dp-5-90 {
+  border-radius: 90%;
+  width: 50%;
+}
+
+.dp-5-80 {
+  border-radius: 80%;
+  width: 50%;
+}
+
+.dp-5-70 {
+  border-radius: 70%;
+  width: 50%;
+}
+
+.dp-5-60 {
+  border-radius: 60%;
+  width: 50%;
+}
+
+.dp-5-50 {
+  border-radius: 50%;
+  width: 50%;
+}
+
+.dp-5-40 {
+  border-radius: 40%;
+  width: 50%;
+}
+
+.dp-5-30 {
+  border-radius: 30%;
+  width: 50%;
+}
+
+.dp-5-20 {
+  border-radius: 20%;
+  width: 50%;
+}
+
+.dp-5-10 {
+  border-radius: 10%;
+  width: 50%;
+}
+
+.dp-5 {
+  width: 50%;
+}
+
+.dp-6-100 {
+  border-radius: 100%;
+  width: 60%;
+}
+
+.dp-6-90 {
+  border-radius: 90%;
+  width: 50%;
+}
+
+.dp-6-80 {
+  border-radius: 80%;
+  width: 50%;
+}
+
+.dp-6-70 {
+  border-radius: 70%;
+  width: 50%;
+}
+
+.dp-6-60 {
+  border-radius: 60%;
+  width: 50%;
+}
+
+.dp-6-50 {
+  border-radius: 50%;
+  width: 50%;
+}
+
+.dp-6-40 {
+  border-radius: 40%;
+  width: 50%;
+}
+
+.dp-6-30 {
+  border-radius: 30%;
+  width: 50%;
+}
+
+.dp-6-20 {
+  border-radius: 20%;
+  width: 50%;
+}
+
+.dp-6-10 {
+  border-radius: 10%;
+  width: 50%;
+}
+
+.dp-6 {
+  width: 60%;
+}
+
+.dp-7-100 {
+  border-radius: 100%;
+  width: 70%;
+}
+
+.dp-7-90 {
+  border-radius: 90%;
+  width: 70%;
+}
+
+.dp-7-80 {
+  border-radius: 80%;
+  width: 70%;
+}
+
+.dp-7-70 {
+  border-radius: 70%;
+  width: 70%;
+}
+
+.dp-7-60 {
+  border-radius: 60%;
+  width: 70%;
+}
+
+.dp-7-50 {
+  border-radius: 50%;
+  width: 70%;
+}
+
+.dp-7-40 {
+  border-radius: 40%;
+  width: 70%;
+}
+
+.dp-7-30 {
+  border-radius: 30%;
+  width: 70%;
+}
+
+.dp-7-20 {
+  border-radius: 20%;
+  width: 70%;
+}
+
+.dp-7-10 {
+  border-radius: 10%;
+  width: 70%;
+}
+
+.dp-7 {
+  width: 70%;
+}
+
+.dp-8-100 {
+  border-radius: 100%;
+  width: 80%;
+}
+
+.dp-8-90 {
+  border-radius: 90%;
+  width: 80%;
+}
+
+.dp-8-80 {
+  border-radius: 80%;
+  width: 80%;
+}
+
+.dp-8-70 {
+  border-radius: 70%;
+  width: 80%;
+}
+
+.dp-8-60 {
+  border-radius: 60%;
+  width: 80%;
+}
+
+.dp-8-50 {
+  border-radius: 50%;
+  width: 80%;
+}
+
+.dp-8-40 {
+  border-radius: 40%;
+  width: 80%;
+}
+
+.dp-8-30 {
+  border-radius: 30%;
+  width: 80%;
+}
+
+.dp-8-20 {
+  border-radius: 20%;
+  width: 80%;
+}
+
+.dp-8-10 {
+  border-radius: 10%;
+  width: 80%;
+}
+
+.dp-8 {
+  width: 80%;
+}
+
+.dp-9-100 {
+  border-radius: 100%;
+  width: 90%;
+}
+
+.dp-9-90 {
+  border-radius: 90%;
+  width: 90%;
+}
+
+.dp-9-80 {
+  border-radius: 80%;
+  width: 90%;
+}
+
+.dp-9-70 {
+  border-radius: 70%;
+  width: 90%;
+}
+
+.dp-9-60 {
+  border-radius: 60%;
+  width: 90%;
+}
+
+.dp-9-50 {
+  border-radius: 50%;
+  width: 90%;
+}
+
+.dp-9-40 {
+  border-radius: 40%;
+  width: 90%;
+}
+
+.dp-9-30 {
+  border-radius: 30%;
+  width: 90%;
+}
+
+.dp-9-20 {
+  border-radius: 20%;
+  width: 90%;
+}
+
+.dp-9-10 {
+  border-radius: 10%;
+  width: 90%;
+}
+
+.dp-9 {
+  width: 90%;
+}
+
+.dp-10 {
+  border-radius: 100%;
+}
+
+/*
+making new outlines */
+.out-dash {
+  outline-style: dashed;
+}
+
+.out-dash-red {
+  outline-style: dashed;
+  outline-color: red;
+}
+
+.out-dash-bl {
+  outline-style: dashed;
+  outline-color: blue;
+}
+
+.out-dash-drk {
+  outline-style: dashed;
+  outline-color: black;
+}
+
+.out-dash-gr {
+  outline-style: dashed;
+  outline-color: green;
+}
+
+.out-dash-ylw {
+  outline-style: dashed;
+  outline-color: yellow;
+}
+
+.out-dash-thick {
+  outline-width: thick;
+  outline-style: dashed;
+}
+
+.out-dash-thin {
+  outline-style: dashed;
+  outline-width: thin;
+}
+
+.out-dash-md {
+  outline-style: dashed;
+  outline-width: medium;
+}
+
+.out-dot {
+  outline-style: dotted;
+}
+
+.out-dot-drk {
+  outline-style: dotted;
+  outline-color: black;
+}
+
+.out-dot-red {
+  outline-style: dotted;
+  outline-color: red;
+}
+
+.out-dot-ylw {
+  outline-style: dotted;
+  outline-color: yellow;
+}
+
+.out-dot-bl {
+  outline-style: dotted;
+  outline-color: blue;
+}
+
+.out-dot-gr {
+  outline-style: dotted;
+  outline-color: green;
+}
+
+.out-dot-thin {
+  outline-style: dotted;
+  outline-width: thin;
+}
+
+.out-dot-thick {
+  outline-style: dotted;
+  outline-width: thick;
+}
+
+.out-dot-md {
+  outline-style: dotted;
+  outline-width: medium;
+}
+
+.out-sld {
+  outline-style: solid;
+}
+
+.out-sld-red {
+  outline: solid red;
+}
+
+.out-sld-drk {
+  outline: solid black;
+}
+
+.out-sld-bl {
+  outline: solid blue;
+}
+
+.out-sld-gr {
+  outline: solid green;
+}
+
+.out-sld-ylw {
+  outline: solid yellow;
+}
+
+.out-sld-thin {
+  outline: thin solid;
+}
+
+.out-sld-thick {
+  outline: thick solid;
+}
+
+.out-sld-md {
+  outline: medium solid;
+}
+
+.out-dbl {
+  outline-style: double;
+}
+
+.out-dbl-red {
+  outline: double red;
+}
+
+.out-dbl-drk {
+  outline: double black;
+}
+
+.out-dbl-gr {
+  outline: double green;
+}
+
+.out-dbl-ylw {
+  outline: double yellow;
+}
+
+.out-dbl-bl {
+  outline: double blue;
+}
+
+.out-dbl-thin {
+  outline: thin double;
+}
+
+.out-dbl-thick {
+  outline: thick double;
+}
+
+.out-dbl-md {
+  outline: medium double;
+}
+
+.out-grv {
+  outline: groove;
+}
+
+.out-grv-red {
+  outline-style: groove;
+  outline-color: red;
+}
+
+.out-grv-bl {
+  outline: groove blue;
+}
+
+.out-grv-ylw {
+  outline: groove yellow;
+}
+
+.out-grv-gr {
+  outline: groove green;
+}
+
+.out-grv-drk {
+  outline: groove black;
+}
+
+.out-grv-thin {
+  outline: thin groove;
+}
+
+.out-grv-md {
+  outline: medium groove;
+}
+
+.out-grv-thick {
+  outline: thick groove;
+}
+
+.out-oset {
+  outline: outset;
+}
+
+.out-oset-thin {
+  outline: thin outset;
+}
+
+.out-oset-thick {
+  outline: outset thick;
+}
+
+.out-oset-md {
+  outline: outset medium;
+}
+
+.out-oset-red {
+  outline: outset red;
+}
+
+.out-oset-bl {
+  outline: blue outset;
+}
+
+.out-oset-gr {
+  outline: outset green;
+}
+
+.out-oset-ylw {
+  outline: outset yellow;
+}
+
+.out-oset-drk {
+  outline: outset black;
+}
+
+.out-iset-thin {
+  outline: thin inset;
+}
+
+.out-iset-thick {
+  outline: thick inset;
+}
+
+.out-iset-md {
+  outline: medium inset;
+}
+
+.out-iset-red {
+  outline: red inset;
+}
+
+.out-iset-bl {
+  outline: blue inset;
+}
+
+.out-iset-drk {
+  outline: black inset;
+}
+
+.out-iset-ylw {
+  outline: yellow inset;
+}
+
+.out-iset-gr {
+  outline: green inset;
+}
+
+/* buttons */
+.btn-out-drk {
+  background-color: white;
+  outline:solid thin black;
+  font-family: "Helvetica";
+  font-size: 1.3rem;
+  height: 100%;
+  width: 20%;
+}
+
+.btn-out-drk:hover {
+  background-color: black;
+  color: white;
+  font-family: "Helvetica";
+  font-size: 1.3rem;
+  height: 100%;
+  width: 20%;
+}
+
+.btn-out-bl {
+  background-color: white;
+  outline: blue solid thin;
+  font-family: "Helvetica";
+  font-size: 1.3rem;
+  height: 100%;
+  width: 20%;
+}
+
+.btn-out-bl:hover {
+  background-color: blue;
+  color: white;
+  font-family: "Helvetica";
+  font-size: 1.3rem;
+  height: 100%;
+  width: 20%;
+}
+
+.btn-out-gr {
+  background-color: white;
+  outline: green solid thin;
+  font-family: "Helvetica";
+  font-size: 1.3rem;
+  height: 100%;
+  width: 20%;
+}
+
+.btn-out-gr:hover {
+  background-color: green;
+  font-family: "Helvetica";
+  font-size: 1.3rem;
+  color: white;
+  height: 100%;
+  width: 20%;
+}
+
+.btn-out-red {
+  background-color: white;
+  outline: red solid thin;
+  font-family: "Helvetica";
+  font-size: 1.3rem;
+  height: 100%;
+  width: 20%;
+}
+
+.btn-out-red:hover {
+  background-color: red;
+  color: white;
+  height: 100%;
+  width: 20%;
+  font-family: "Helvetica";
+  font-size: 1.3rem;
+}
+
+.btn-out-ylw {
+  background-color: white;
+  outline: yellow solid thin;
+  height: 100%;
+  width: 20%;
+  font-family: "Helvetica";
+  font-size: 1.3rem;
+}
+
+.btn-out-ylw:hover {
+  background-color: yellow;
+  color: black;
+  font-family: "Helvetica";
+  font-size: 1.3rem;
+  height: 100%;
+  width: 20%;
+}
+
+/* aligning through classes only  */
+.center{
+  text-align: center;
+}
+.right{
+  text-align:right;
+}
+.left{
+  text-align: left;
+}
+.justify{
+  text-align: justify;
+}
